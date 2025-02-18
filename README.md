@@ -23,6 +23,7 @@ Um relatório sobre os insights tirados está disponivel no Medium, você pode a
 https://medium.com/@marcelorb47/cart%C3%B5es-no-brasileir%C3%A3o-2023-6e20024cb07f
 
 Foi desenvolvido também um dashboard em PowerBI basta ascessar pelo link abaixo:
+
 Link: https://app.powerbi.com/view?r=eyJrIjoiNGMzNjdhM2QtNmY1ZC00YmJhLThjZGQtYWE2ODY1NjdkYzhkIiwidCI6IjUwMzY5MDIwLTA4YmMtNDkwYi04ODllLTJiYWRmYTQ3YjRhYiJ9
 
 Se tiver alguma dúvida ou sugestão se sinta a vontade em entrar em contato pelo linkedin:
